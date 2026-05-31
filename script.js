@@ -24,7 +24,7 @@ const languages = {
         'about-desc': '绍兴一橙纺织品有限公司致力于成为纺织行业的领先企业。我们秉承创新、品质、服务的理念，为客户提供最优质的产品和服务。我们的愿景是成为全球纺织市场的佼佼者，为客户创造价值，为社会贡献力量。',
         'contact-title': '联系我们',
         'contact-email': '邮箱：564655068@qq.com',
-        'contact-phone': '电话：+86 19817808333',
+        'contact-phone': '电话：+86 15306531777',
         'contact-address': '地址：浙江省绍兴市柯桥区安昌街道创意路199号10幢B-1101-8-2室'
     },
     en: {
@@ -51,7 +51,7 @@ const languages = {
         'about-desc': 'Shaoxing Yicheng Textile Co., Ltd. is committed to becoming a leading enterprise in the textile industry. We adhere to the philosophy of innovation, quality, and service, providing customers with the highest quality products and services. Our vision is to become a leader in the global textile market, creating value for customers and contributing to society.',
         'contact-title': 'Contact Us',
         'contact-email': 'Email: 564655068@qq.com',
-        'contact-phone': 'Phone: +86 19817808333',
+        'contact-phone': 'Phone: +86 15306531777',
         'contact-address': 'Address: Room B-1101-8-2, Building 10, No. 199 Chuangyi Road, Anchang Street,Keqiao District,Shaoxing City, Zhejiang province'
     }
 };
