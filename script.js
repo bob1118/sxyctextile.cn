@@ -52,7 +52,7 @@ const languages = {
         'contact-title': 'Contact Us',
         'contact-email': 'Email: 56730194@qq.com',
         'contact-phone': 'Phone: +86 15306531777',
-        'contact-address': 'RoomB-1101-4,Building10,199CreativeRoad,Keqiao District,ShaoxingCity,ZhejiangProvince'
+        'contact-address': 'Adress: RoomB-1101-4,Building10,199CreativeRoad,Keqiao District,ShaoxingCity,ZhejiangProvince'
     }
 };
 
